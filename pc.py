@@ -462,13 +462,13 @@ def loadConfig():
 
         efficiency = "95"
 
-        threadcount = "8"
+        threadcount = "2"
 
        
 
         requested_diff = "2"
         
-        rig_identiier = "Hello123"
+        rig_identiier = "Hello1234"
 
         
 
